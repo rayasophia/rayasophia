@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋🏼 Heya! I'm Raya Sophia
 
-<!--
-**rayasophia/rayasophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **web developer** based in Toronto, Canada. With a background in engineering, I love building dynamic and efficient applications, exploring new technologies, and solving complex problems.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔹 Passionate about **full-stack development**, **cloud computing**, and **DevOps**  
+- 🔹 Skilled in **JavaScript, Node.js, C/C++, Python, SQL, and more**  
+- 🔹 Familiar with **Azure, GitHub Actions, PostgreSQL, MongoDB, Tailwind CSS**  
+- 🔹 Currently learning **advanced DevOps practices and cloud deployment strategies**  
+- 🔹 Open to **collaborations, projects, and exciting opportunities!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect  
+- ⚙️ Check out my **[Portfolio](https://rayasophia.github.io)**  
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rayamcasas)**  
+- ✉️ Feel free to say hi at **[rayamcasas@gmail.com](mailto:rayamcasas@gmail.com)**  
+
+Thanks for stopping by! ✨
