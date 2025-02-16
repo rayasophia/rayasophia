@@ -10,7 +10,7 @@ I'm an aspiring **programmer** based in Toronto, Canada. With a background in en
 - Open to **collaborations, projects, and exciting opportunities!**
 
 ## 📫 Let's Connect  
-- ⚙️ Check out my **[Portfolio](https://rayasophia.github.io)**  
+- ⚙️ Check out my **[Portfolio](https://rayasophia.github.io/portfolio)**  
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rayamcasas)**  
 - ✉️ Feel free to say hi at **[rayamcasas@gmail.com](mailto:rayamcasas@gmail.com)**  
 
