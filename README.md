@@ -3,8 +3,8 @@
 I'm an aspiring **programmer** based in Toronto, Canada. With a background in engineering, I love building dynamic and efficient applications, exploring new technologies, and solving complex problems.  
 
 ## 🚀 About Me  
-- Passionate about **full-stack development**, **cloud computing**, and **DevOps**  
-- Skilled in **JavaScript, Node.js, C/C++, Python, SQL, and more**  
+- Passionate about **full-stack development**, **cloud solutions**, and **DevOps**  
+- Skilled in **C/C++, Python, SQL, JavaScript and more**  
 - Familiar with site hosting, cloud infrastructures, and app development
 - Currently learning **advanced DevOps practices and integration**
 - Open to **collaborations, projects, and exciting opportunities!**
